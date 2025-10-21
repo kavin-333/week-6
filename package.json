@@ -57,6 +57,8 @@
       },
       "scripts": {
           "dev": "vite",
-          "build": "vite build"
+          "build": "vite build",
+          "homepage": https://github.com/kavin-333/week-6.git
       }
+    
   }
