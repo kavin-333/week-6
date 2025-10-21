@@ -58,7 +58,8 @@
       "scripts": {
           "dev": "vite",
           "build": "vite build",
-          "homepage": https://github.com/kavin-333/week-6.git
+          "deploy": "gh-pages -d dist"
+
       }
-    
+    "homepage": https://github.com/kavin-333/week-6.git
   }
